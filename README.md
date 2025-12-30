@@ -30,5 +30,11 @@ Code, notes, and exercises from various web development tutorials and learning r
 *   **flexbox**: Practice and examples using CSS Flexbox layouts.
 *   **grid**: Practice and examples using CSS Grid layouts.
 
+### 📝 Learning Notes (`learnings.md`)
+A comprehensive document containing my notes on various web development topics, including Internet basics, HTML, CSS, JavaScript, and more.
+
+### 🖼️ Assets (`/assets`)
+Contains images and diagrams used in the documentation and notes.
+
 ---
 *Happy Coding!*
